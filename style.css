@@ -1,0 +1,23 @@
+#home-p {
+    background-color: rgba(196, 196, 196, 0.548);
+}
+
+#navbar {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+
+.body {
+    background-color: rgba(34, 151, 116, 0.856);
+}
+
+.hero-image {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://www.novascotia.com/sites/default/files/2019-05/cruise-sunrise-halifax-1920x1080.jpg");
+  height: 85vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
